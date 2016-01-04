@@ -1,6 +1,6 @@
 # 
-# Example file for retrieving data from the internet
-# (For Python 3.x, be sure to use the ExampleSnippets3.txt file)
+# A PROJECT TO OUTPUT EARTHQUAKE MAGNITUDE 
+# THAT ARE OVER 4.0 FROM http://earthquake.usgs.gov/ WEBSITE
 
 import urllib2
 import json
